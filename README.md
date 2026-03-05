@@ -1,4 +1,6 @@
-<b style="font-size: 28px;">Chetan Allapur</b>
+<div align="left">
+  <span style="font-size: 40px; font-weight: 800;">Chetan Allapur</span>
+</div>
 
 Full‑stack developer who enjoys building fast, clean, scalable web + mobile apps.  
 Currently sharpening React architecture, MERN, and system design.
@@ -7,7 +9,7 @@ Currently sharpening React architecture, MERN, and system design.
 
 ---
 
-<b>🧰 Skills & Tools</b>
+<span style="font-size: 20px; font-weight: 700;">🧰 Skills & Tools</span>
 
 <b>Frontend</b>
 - ⚛️ React.js
@@ -39,13 +41,13 @@ Currently sharpening React architecture, MERN, and system design.
 
 ---
 
-<b>🏆 Achievements</b>
+<span style="font-size: 20px; font-weight: 700;">🏆 Achievements</span>
 - 🥇 Winner — National‑Level Hackathon (DEVELOPTHON – Code for Social Impact, Deshpande Startups)
 - 🌟 Recognized as a key contributor for impactful delivery and strong team collaboration
 
 ---
 
-<b>🔭 Interests</b>
+<span style="font-size: 20px; font-weight: 700;">🔭 Interests</span>
 - 🧱 Clean architecture & reusable component design
 - ⚡ Frontend performance (rendering, memoization, bundles)
 - 🧠 System design for scalable apps
@@ -55,7 +57,9 @@ Currently sharpening React architecture, MERN, and system design.
 
 ---
 
-<b>📌 Current Focus</b>
+<span style="font-size: 20px; font-weight: 700;">📌 Current Focus</span>
 - ⚛️ Advanced React patterns (state, hooks, performance)
 - 🌐 Production-grade MERN apps
 - 🧩 Designing maintainable UI systems
+
+
