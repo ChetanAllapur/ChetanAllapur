@@ -1,15 +1,15 @@
-# Chetan Allapur
+<b style="font-size: 28px;">Chetan Allapur</b>
 
-Full‑stack developer who enjoys building fast, clean, and scalable web + mobile apps.  
-Currently deepening **React architecture**, **MERN**, and **system design**.
+Full‑stack developer who enjoys building fast, clean, scalable web + mobile apps.  
+Currently sharpening React architecture, MERN, and system design.
 
-📍 Bengaluru, India • 🌐 chetanallapur.web.app • ✉️ allapurchetan@gmail.com
+📍 Bengaluru, India  •  🌐 chetanallapur.web.app  •  ✉️ allapurchetan@gmail.com
 
 ---
 
-## 🧰 Skills & Tools
+<b>🧰 Skills & Tools</b>
 
-### Frontend
+<b>Frontend</b>
 - ⚛️ React.js
 - 📱 React Native
 - 🟦 TypeScript
@@ -18,18 +18,18 @@ Currently deepening **React architecture**, **MERN**, and **system design**.
 - 🎨 Tailwind CSS
 - 🧱 HTML5 / CSS3
 
-### Backend
+<b>Backend</b>
 - 🟩 Node.js
 - 🚂 Express.js
 - 🔌 REST APIs
-- 🔐 JWT Auth
+- 🔐 JWT Authentication
 - 🧩 Middleware & error handling
 
-### Database
+<b>Database</b>
 - 🍃 MongoDB
 - 🧬 Mongoose
 
-### Testing / Dev Tools
+<b>Testing / Dev Tools</b>
 - ✅ Jest
 - 🤖 WebDriverIO
 - 🧪 Selenium
@@ -39,25 +39,23 @@ Currently deepening **React architecture**, **MERN**, and **system design**.
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Winner — National‑Level Hackathon** (DEVELOPTHON – Code for Social Impact, Deshpande Startups)
-- 🌟 Recognized as a **key contributor** for impactful delivery and strong team collaboration
+<b>🏆 Achievements</b>
+- 🥇 Winner — National‑Level Hackathon (DEVELOPTHON – Code for Social Impact, Deshpande Startups)
+- 🌟 Recognized as a key contributor for impactful delivery and strong team collaboration
 
 ---
 
-## 🔭 Interests
+<b>🔭 Interests</b>
 - 🧱 Clean architecture & reusable component design
 - ⚡ Frontend performance (rendering, memoization, bundles)
 - 🧠 System design for scalable apps
 - 📱 Cross‑platform mobile development
-- 🔐 Authentication & secure app patterns
-- 🤖 Test automation and reliable CI-friendly tests
+- 🔐 Secure auth patterns
+- 🤖 Test automation + CI-friendly testing
 
 ---
 
-## 📌 Current focus
+<b>📌 Current Focus</b>
 - ⚛️ Advanced React patterns (state, hooks, performance)
-- 🌐 Building production-grade MERN apps
+- 🌐 Production-grade MERN apps
 - 🧩 Designing maintainable UI systems
-
----
